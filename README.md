@@ -19,4 +19,5 @@ Experiments are implemented as jupyter notebooks in the folder `experiments/`.
 
 List of experiments:
 - `heat_1d.ipynb`
+- `heat_2d.ipynb`
 - `navier_stokes.ipynb`
