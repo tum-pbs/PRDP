@@ -18,4 +18,5 @@ Progressively Refined Differentiable Physics
 Experiments are implemented as jupyter notebooks in the folder `experiments/`. 
 
 List of experiments:
-- 'navier_stokes.ipynb'
+- `heat_1d.ipynb`
+- `navier_stokes.ipynb`
