@@ -18,6 +18,7 @@ Progressively Refined Differentiable Physics
 Experiments are implemented as jupyter notebooks in the folder `experiments/`. 
 
 List of experiments:
-- `heat_1d.ipynb`
-- `heat_2d.ipynb`
-- `navier_stokes.ipynb`
+- `poisson_1_param.ipynb` - Inverse problem with 1 parameter
+- `heat_1d.ipynb` - Linear neural emulator learning
+- `heat_2d.ipynb` - Linear neural emulator learning
+- `navier_stokes.ipynb` - Non-linear neural-hybrid corrector learning

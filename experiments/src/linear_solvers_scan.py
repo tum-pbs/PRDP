@@ -12,7 +12,7 @@ def squareloss_fn(solution_history, ground_truth):
     returns: shape = (n_iterations,)
     """
     N = ground_truth.shape[0]
-    return ( (LA.norm(solution_history - ground_truth, axis=1))**2 / (2*N) )
+    return ( (LA.norm(solution_history - ground_truth, axis=-1))**2 / (2*N) )
     # return jnp.mean((solution - ground_truth)**2 ) * 0.5
 
 # now value_array means value vs #inner_iterations
