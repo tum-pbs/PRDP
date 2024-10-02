@@ -12,6 +12,7 @@ The code is available as an anonymous git repository at https://anonymous.4open.
 - Numpy
 - Matplotlib
 - ipykernel
+- lineax
 - pdequinox
     - ```cd ./pdequinox && pip install -e .```
 
