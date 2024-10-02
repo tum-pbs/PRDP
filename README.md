@@ -4,8 +4,8 @@ Progressively Refined Differentiable Physics.
 The code is available as an anonymous git repository at https://anonymous.4open.science/r/prdp-3012 .
 
 ## Requirements
-- Python 3.6
-- Jax
+- Python 3.10
+- JAX
 - Jaxopt
 - Equinox
 - Optax
