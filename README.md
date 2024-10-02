@@ -1,4 +1,4 @@
-# prdp
+# PRDP
 Progressively Refined Differentiable Physics
 
 ## Requirements
